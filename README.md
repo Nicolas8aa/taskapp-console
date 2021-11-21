@@ -6,6 +6,6 @@ Once you clone or download this repo: <br>
 ```npm install``` to install all dependencies required
 
 With all dependencies ready run: <br>
-```node run app``` in root folder
+```node app``` in root folder
 
 And that's all bro, enjoy <3
